@@ -1,0 +1,5 @@
+
+The included file contains serveral example test cases for the puclic WikipediA API.  It is not ment to be a complest test 
+suite
+
+- It was tested using nosetests ver 1.3.0
